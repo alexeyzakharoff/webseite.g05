@@ -43,8 +43,7 @@
          Ich bin Mitglied des geoweb-Teams <br /><br />
   <input type="submit" value="Abschicken">
   <input type="reset" value="Zurücksetzen"> <br /><br />
-  Ihr Eintrag wird zugestellt.<br>
-  Wir bedanken Ihnen für die Teilnahme!<br /><br />
+  Ihr Eintrag wird zugestellt. Wir bedanken Ihnen für die Teilnahme!<br /><br />
   <br />
 </form> 
 	</div> 

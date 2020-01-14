@@ -19,6 +19,10 @@ $properties = $row;
 # Remove geojson and geometry fields from properties
 unset($properties['geojson']);
 unset($properties['the_geom']);
+unset($properties['f_datum']);
+unset($properties['f_geoweb']);
+unset($properties['f_mail']);
+unset($properties['f_anrede']);
 $feature = array(
 'type' => 'Feature',
 'geometry' => json_decode($row['geojson'], true),
